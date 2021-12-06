@@ -42,3 +42,7 @@ DensNet-103-12 : # of layers: 103, growth rate: 12, theta: 0.5, drop rate: 0.2
 ptype -> 'max', 'avg', 'gauss_HWCN', 'gauss_CN', 'gauss_half_HWCN', 'gauss_half_CN'
 
 ptype = 
+
+# 4. attributors
+
+박우찬, 유병철, 유재성, 이명진, 이상훈
