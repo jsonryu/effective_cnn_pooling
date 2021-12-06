@@ -40,4 +40,5 @@ DensNet-103-12 : # of layers: 103, growth rate: 12, theta: 0.5, drop rate: 0.2
 # 3. code execution
 
 ptype -> 'max', 'avg', 'gauss_HWCN', 'gauss_CN', 'gauss_half_HWCN', 'gauss_half_CN'
+
 ptype = 
