@@ -6,7 +6,7 @@ This project is based on the main idea of the following papers
 
 "Densely connected convolutional networks" and "Gaussian-based pooling for convolutional neural networks"
 
-Based on the CNN network which uses average pooling for bottelneck layer and full connected layer, we introduce another 5 different pooling methods
+Based on the CNN network we introduce 6 different pooling methods in bottlenek layers
 
 'max', 'avg', 'gauss_HWCN', 'gauss_CN', 'gauss_half_HWCN', 'gauss_half_CN'
 
