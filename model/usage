@@ -1,6 +1,7 @@
 # implementation
-pytorch
-cifar-10
-
-# execution
-python 3.5
+python=3.5
+numpy
+torch=1.0
+torchvision
+torchsummary
+cifar-10 dataset
