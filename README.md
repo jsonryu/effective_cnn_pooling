@@ -6,13 +6,14 @@ This project is based on the main idea of the following papers
 
 "Densely connected convolutional networks" and "Gaussian-based pooling for convolutional neural networks"
 
-Based on the CNN network we introduce 6 different pooling methods in bottlenek layers(DenseNet_standard)
+Based on the DenseNet we introduce 6 different pooling methods in bottlenek layers(DenseNet_standard)
 
 'max', 'avg', 'gauss_HWCN', 'gauss_CN', 'gauss_half_HWCN', 'gauss_half_CN'
 
 And we also tried to extends the lengh of the denseblock(DenseNet_4blocks/DenseNet_6blocks), 
 
 and tested the original 13layers presented in the original papar(13layers_network)
+
 
 # 1. requirements
 
