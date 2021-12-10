@@ -1,0 +1,3 @@
+ptype -> 'max', 'avg', 'gauss_HWCN', 'gauss_CN', 'gauss_half_HWCN', 'gauss_half_CN'
+
+ptype =
